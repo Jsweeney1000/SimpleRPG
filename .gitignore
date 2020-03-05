@@ -1,0 +1,9 @@
+SimpleRPG/obj/Debug/
+SimpleRPG.Test/bin/Debug/SimpleRPG.Test.exe.config
+SimpleRPG.Test/bin/Debug/nunit.framework.xml
+SimpleRPG/bin/Debug/SimpleRPG.exe.config
+SimpleRPG/bin/Debug/SimpleRPG.vshost.exe.manifest
+TestResults/SimpleRPG.TE.Tests.mdf
+TestResults/SimpleRPG.TE.Tests_log.ldf
+SimpleRPG.Test/bin/Debug/$RANDOM_SEED$
+SimpleRPG/bin/Debug/$RANDOM_SEED$
